@@ -1,0 +1,25 @@
+
+‡
+java:S1488‚"dImmediately return this expression instead of assigning it to the temporary variable "optionPlayer".(©´†…ûÿÿÿÿ8ÍÕÃÎÜ1
+7
+java:S1220""Move this file to a named package.8ÎÕÃÎÜ1
+e
+java:S1659"HDeclare "contMachine" and all following declarations on a separate line.(‡Íµ8àÕÃÎÜ1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÅÛÆ£üÿÿÿÿ8ãÕÃÎÜ1
+L	java:S106"+Replace this use of System.out by a logger.(óß®¯øÿÿÿÿ8æÕÃÎÜ1
+G	java:S106"+Replace this use of System.out by a logger.(¶ç®Â8èÕÃÎÜ1
+L	java:S106!"+Replace this use of System.out by a logger.(¨ø “ÿÿÿÿÿ8ëÕÃÎÜ1
+G	java:S106$"+Replace this use of System.out by a logger.(åø»‹8ìÕÃÎÜ1
+L	java:S1064"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8¡ÑÏÎÜ1
+G	java:S106<"+Replace this use of System.out by a logger.(åø»‹8¢ÑÏÎÜ1
+G	java:S106F"+Replace this use of System.out by a logger.(¸â“è8ÉèÜÎÜ1
+:
+java:S2119N"Save and re-use this "Random".(¼İÅf8êÕÃÎÜ1
+L	java:S106^"+Replace this use of System.out by a logger.(‰±×Çøÿÿÿÿ8Š‚öÎÜ1
+L	java:S106`"+Replace this use of System.out by a logger.(³¼ùûÿÿÿÿ8…›ŠÏÜ1
+s
+java:S3457q"Q%n should be used in place of \n to produce the platform-specific line separator.(±‰±åıÿÿÿÿ8¨¾ˆÏÜ1
+G
+java:S3457q"%String contains no format specifiers.(±‰±åıÿÿÿÿ8Š‚öÎÜ1
+L	java:S106q"+Replace this use of System.out by a logger.(±‰±åıÿÿÿÿ8ª×‹ÏÜ1
